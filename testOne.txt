@@ -1,0 +1,16 @@
+"type":"string","value":"dev","field":"role"
+
+http://www.journaldev.com/2552/spring-restful-web-service-example-with-json-jackson-and-client-program
+
+
+@JsonSerialize
+
+Failed to execute goal org.codehaus.mojo:tomcat-maven-plugin:1.1:deploy (default-cli) on project
+
+
+http://www.journaldev.com/2651/spring-mvc-exception-handling-exceptionhandler-controlleradvice-handlerexceptionresolver-json-response-example
+http://www.journaldev.com/2552/spring-restful-web-service-example-with-json-jackson-and-client-program
+http://www.sencha.com/forum/showthread.php?143811-ExtJS-4-Add-filter-on-Columns-in-a-Grid
+store.getProxy().extraParams.yourParamName = yourParamValue;
+
+
